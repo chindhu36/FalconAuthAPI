@@ -14,14 +14,7 @@ This is a user authentication API built using Python's Falcon framework and SQLA
 - SQLAlchemy
 - SQLite (or any other database you configure with SQLAlchemy)
 
-## Getting Started
-
 ### Prerequisites
 - Python 3.7 or higher
 - `pip` (Python package installer)
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/UserAuthenticationAPI.git
-   cd UserAuthenticationAPI
